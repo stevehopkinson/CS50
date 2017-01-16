@@ -1,0 +1,19 @@
+0.  BMP: 16, 256, 65,536 or 16,777,216; GIF: 256 (although workarounds can give more); JPEG: 16,777,216; PNG: up to 281,474,976,710,656
+1.  GIF
+2.  With lossless compression, 100% of the original data can be recovered following uncompression; with lossy compression, some of the original data is irrecoverable through uncompression.
+3.  JPEG
+4.  The first character of the file's directory entry is changed to signal that it has been deleted, and all relevant clusters are moved to the drive's list of free clusters in the FAT.
+5.  Physically destroy the drive, degauss it to randomise its magnetic domains, or overwrite the data until it cannot be recovered.
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
